@@ -2,7 +2,7 @@ import React from "react";
 import Column from "./Column";
 import { useDispatch, useSelector } from "react-redux";
 
-import AddNewColumn from "./addNewColumn";
+import AddNewColumn from "./AddNewColumn";
 import { DndContext } from "@dnd-kit/core";
 import { arrayMove } from "@dnd-kit/sortable";
 import { createNewBoard, moveTask } from "../redux/boardsSlice";
