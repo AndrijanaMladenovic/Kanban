@@ -46,4 +46,6 @@ Install dependencies:
 ```bash
 npm install
 
+## Live Demo
 
+[View live project](https://kanban-project-github.netlify.app/)
